@@ -1,6 +1,7 @@
 # flutter_f_rms
 
-A new Flutter project.
+Creates a user-friendly software solution that enhances the dining experience for customers, streamlines restaurant operations for administrators, and provides a platform for outlet owners to engage with 
+customers. The project aims to automate processes like reservations, dine-in orders, billing, menu management, and resource utilization.
 
 ## Getting Started
 
